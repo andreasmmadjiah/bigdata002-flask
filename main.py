@@ -56,7 +56,7 @@ def predict():
          <title>Prediction Result! EYEYEYEYEY</title>
       </head>
       <body>
-         <h3>Prediction:</h3>
+         <h3>Prediction 25 25 252 25</h3>
          <div>This is the predicted classification <strong>{{ response.prediction }}</strong>.</div>
          <div>with data {{response.data}}</div>
       </body>
