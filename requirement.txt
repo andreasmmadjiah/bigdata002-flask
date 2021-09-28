@@ -1,0 +1,7 @@
+flask
+pickle
+datetime
+json
+sklearn
+pandas
+gunicorn
