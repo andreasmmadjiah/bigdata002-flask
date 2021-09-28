@@ -13,7 +13,7 @@ import pandas as pd
 import pickle
 
 app = Flask(__name__)
-server = app.server
+# server = app.server
 
 @app.route('/')
 def Test():
